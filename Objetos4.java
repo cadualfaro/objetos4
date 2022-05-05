@@ -1,7 +1,3 @@
-/*
-Implemente que cada Pessoa possa ter até 2 carros.
-Implemente o método “registrarCarro (Carro car)” dentro da classe Pessoa
-*/
 package objetos.pkg4;
 
 public class Objetos4 {
